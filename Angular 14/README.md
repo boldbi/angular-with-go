@@ -39,7 +39,7 @@ This Bold BI Angular with Go sample contains the Dashboard embedding sample. In 
    
   2. Run the back-end `Go` sample by using the following command `go run main.go`.
    
-  3. Open the **command line interface** and navigate to the specified file [location](https://github.com/boldbi/angular-with-go-sample/tree/master/Angular-14) where the project is located.
+  3. Open the **command line interface** and navigate to the specified file [location](https://github.com/boldbi/angular-with-go-sample/tree/master/Angular%2014) where the project is located.
    
   4. Install all dependent packages by executing the following command `npm install`.
    
