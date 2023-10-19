@@ -51,7 +51,7 @@ func getdetails(w http.ResponseWriter, r *http.Request) {
 
 	err = json.Unmarshal(fileData, &appconfig)
 	// Create a custom struct to hold the specific properties you want to return.
-	result := AppConfig{
+	clientEmbedConfigData := AppConfig{
 		DashboardId:    appconfig["DashboardId"].(string),
 		ServerUrl:      appconfig["ServerUrl"].(string),
 		SiteIdentifier: appconfig["SiteIdentifier"].(string),
@@ -59,7 +59,7 @@ func getdetails(w http.ResponseWriter, r *http.Request) {
 		Environment:    appconfig["Environment"].(string),
 	}
 
-	jsonResponse, err := json.Marshal(result)
+	jsonResponse, err := json.Marshal(clientEmbedConfigData)
 	w.Write(jsonResponse)
 }
 

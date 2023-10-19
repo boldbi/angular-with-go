@@ -12,7 +12,7 @@ This Bold BI Angular with Go sample contains the Dashboard embedding sample. In 
  * [Visual Studio Code](https://code.visualstudio.com/download)
  * [Node.js](https://nodejs.org/en/)
  
- > **NOTE:** Node.js v14.16 to v18.18 are supported.
+ > **NOTE:** Node.js v14.20 to v18.18 are supported.
 
  #### Supported browsers
   
