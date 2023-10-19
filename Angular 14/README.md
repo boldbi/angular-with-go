@@ -9,18 +9,18 @@ This Bold BI Angular with Go sample contains the Dashboard embedding sample. In 
  ## Requirements/Prerequisites
  
  * [Go installer](https://go.dev/dl/)
- * [Node.js](https://nodejs.org/en/)
  * [Visual Studio Code](https://code.visualstudio.com/download)
+ * [Node.js](https://nodejs.org/en/)
  
- > **NOTE:** Node.js v14.16 to v18.18 are supported.
+ > **NOTE:** Node.js v14.20 to v18.18 are supported.
 
  #### Supported browsers
   
-  * Google Chrome, Microsoft Edge, Mozilla Firefox.
+  * Google Chrome, Microsoft Edge, Mozilla Firefox, and Safari.
 
  ## Configuration
 
-  * Please get the [Angular with Go](https://github.com/boldbi/angular-with-go-sample) sample from GitHub.
+  * Please [get](https://github.com/boldbi/angular-with-go-sample) the Angular with Go sample from GitHub.
 
   * Please ensure you have enabled embed authentication on the `embed settings` page. If it is not currently enabled, please refer to the following image or detailed [instructions](https://help.boldbi.com/site-administration/embed-settings/#get-embed-secret-code) to enable it.
   ![Embed Settings](https://github.com/boldbi/aspnet-core-sample/assets/91586758/b3a81978-9eb4-42b2-92bb-d1e2735ab007)
@@ -39,17 +39,17 @@ This Bold BI Angular with Go sample contains the Dashboard embedding sample. In 
    
   2. Run the back-end `Go` sample by using the following command `go run main.go`.
    
-  3. Open the **command line interface** and navigate to the specified file [location](https://github.com/boldbi/angular-with-go-sample/tree/master/Angular-14) where the project is located.
+  3. Open the **command line interface** and navigate to the specified file [location](https://github.com/boldbi/angular-with-go-sample/tree/master/Angular%2014) where the project is located.
    
   4. Install all dependent packages by executing the following command `npm install`.
    
   5. Finally, run the application using the following command `ng serve`.
    
-  6. After the application has started, it will display a URL in the `command line interface`, typically something like (e.g., http://localhost:4200). Copy this URL and paste it into your default web browser.
+  6. After the application has started, it will display a URL in the `command line interface`, typically something like (e.g., https://localhost:4200). Copy this URL and paste it into your default web browser.
 
  ## Developer IDE
 
-  * [Visual Studio Code](https://code.visualstudio.com/download)
+  * [Visual studio code](https://code.visualstudio.com/download)
 
  ### Run a Sample Using Visual Studio Code
 
