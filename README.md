@@ -20,7 +20,7 @@ This Bold BI Angular with Go sample contains the Dashboard embedding sample. In 
 
  ## Configuration
 
-  * Please get the [Angular with Go] (https://github.com/boldbi/angular-with-go-sample) sample from GitHub.
+  * Please get the [Angular with Go](https://github.com/boldbi/angular-with-go-sample) sample from GitHub.
 
   * Please ensure you have enabled embed authentication on the `embed settings` page. If it is not currently enabled, please refer to the following image or detailed [instructions](https://help.boldbi.com/site-administration/embed-settings/#get-embed-secret-code) to enable it.
   ![Embed Settings](https://github.com/boldbi/aspnet-core-sample/assets/91586758/b3a81978-9eb4-42b2-92bb-d1e2735ab007)
